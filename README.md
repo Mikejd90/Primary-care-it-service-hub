@@ -147,4 +147,15 @@ The planned V11 platform will introduce:
 🏗️ Modular GitHub-first architecture
 
 V11 is intended to evolve the project from an IT service hub demonstrator into a broader Primary Care digital operations platform.
+
+## Repository Policy & Contributions
+This repository exists strictly as a personal portfolio showcase.
+
+No External Contributions: Pull requests, issues, and feature requests from outside contributors are not currently accepted.
+Ownership: All maintenance, updates, and code pushes are managed exclusively by the author (@mikejd90).
+Usage: You are free to view, fork, or study the code under the terms of the MIT License below, but changes to this main repository remain strictly locked to the owner.
+License & Terms of Use
+Demonstration and Portfolio Use Only Copyright (c) 2026. This project is shared strictly for portfolio display, technical demonstration, and evaluation purposes.
+
+No Production Warranty: This software is provided "as is", without warranty of any kind, express or implied. Data Restriction: This repository contains synthetic dummy data only. Unauthorized use with live NHS patient data or real staff PII is strictly prohibited.
     
