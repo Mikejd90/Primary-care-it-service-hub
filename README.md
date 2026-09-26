@@ -1,161 +1,61 @@
-📜 Version History
-V10.4 — Executive Intelligence & Governance Edition
+# V10.4 — Primary Care Practice IT Support & IT Lead Hub
 
-Latest V10 release
+A browser-based IT service platform designed for NHS General Practice, bringing together staff IT support, digital resources and IT service management in one central hub.
 
-V10.4 expanded the platform from an IT service-management demonstrator into an executive intelligence and governance platform.
+## Project Overview
 
-Key features:
+V10.4 provides practice staff with a central place to access IT support, troubleshooting guidance, training and digital resources. It also includes a dedicated IT Lead Hub for managing IT operations, infrastructure, incidents, governance, reporting and digital transformation.
 
-📊 Executive KPI dashboard
-🛡️ Governance & Assurance workspace
-🔐 DSP Toolkit assurance demonstrator
-📋 CQC Well-Led evidence tracker
-🛡️ Cyber security assurance indicators
-⚠️ Risk and action tracking
-📈 Executive reporting centre
-🤖 AI analytics overview
-🚀 Digital transformation reporting
-📄 Report preview / print-ready reporting
-📱 Improved responsive dashboard layouts
-🔎 Improved enterprise navigation
-🏷️ Clearly identified illustrative/demo data
-V10.3 — Enterprise ITSM Edition
+The project demonstrates how a unified platform can support everyday IT operations while providing tools for wider service management and continuous improvement.
 
-V10.3 introduced a more complete Enterprise IT Service Management capability and refined the IT Lead experience.
+## Key Features
 
-Key features:
+* **Practice Staff Hub:** IT support, help guides, equipment requests and support resources.
+* **IT Lead Dashboard:** Centralised IT operations and management tools.
+* **Incident Management:** Demonstration incident reporting and tracking.
+* **Devices & Infrastructure:** Hardware and network management modules.
+* **Cyber Security & Governance:** Security, compliance and assurance resources.
+* **Digital Transformation:** Project and change management tools.
+* **Reports & Analytics:** Demonstration reporting and service insights.
+* **Staff & User Management:** User administration and onboarding support.
+* **Responsive Design:** Desktop, tablet and mobile-friendly interface.
+* **Interactive Modules:** Demonstration workflows and simulated authentication.
 
-🎫 Incident Management
-📋 Service Requests
-🔧 Problem Management
-🔄 Change Management
-🖥️ Asset / CMDB direction
-👤 Record ownership and assignment
-📊 ITSM status and priority tracking
-🔍 ITSM search and filtering
-📝 ITSM record creation demonstrator
-📜 Audit activity concepts
-🛡️ Enterprise IT operations dashboard
-🔐 IT Lead access experience
-📱 Responsive desktop, tablet and mobile design
+## Technology
 
-Design change:
+* HTML5
+* CSS3
+* JavaScript
+* Responsive web design
+* Browser-based interface
 
-Removed the standalone IT Command Centre shortcut
-Consolidated the enterprise functionality under the IT Lead experience
-V10.2 — Enterprise Operations Edition
+## Version History
 
-V10.2 expanded the platform into a broader enterprise IT operations demonstrator.
+### V10.4 — Practice IT Support & IT Lead Hub
 
-Key features:
+* Redesigned the landing page with separate Practice Staff and IT Lead areas.
+* Simplified navigation and improved the overall user experience.
+* Retained the interactive modules from the previous Enterprise version.
+* Brought staff support and IT service management together in one platform.
+* Improved the platform's presentation for portfolio demonstration.
 
-🏠 Enhanced IT Lead dashboard
-🎫 Service management functionality
-🖥️ Asset and device concepts
-🌐 Infrastructure and network monitoring concepts
-🛡️ Cyber security workspace
-🚀 Digital project management
-📚 Knowledge management
-🤖 AI analytics concepts
-👥 Staff support functionality
-📊 Operational KPI dashboards
-📱 Mobile and tablet optimisation
-V10.1 — Enterprise IT Lead Development
+### Previous Versions
 
-V10.1 focused on expanding the original IT Lead demonstrator into a more structured enterprise environment.
+Earlier versions developed the platform's IT support, operational management, governance and reporting capabilities. V10.4 builds on this functionality with a clearer interface and more accessible structure.
 
-Key features:
+## Portfolio Value
 
-IT Lead dashboard development
-Enterprise navigation
-IT operational views
-Digital transformation workspace
-Infrastructure management concepts
-Cyber security functionality
-Staff support capabilities
-Dashboard statistics
-Responsive interface improvements
-V10.0 — Enterprise Edition
+This project demonstrates practical skills in IT service management, digital transformation, infrastructure oversight, governance and user-focused system design. It explores how a centralised digital platform can support the operational needs of a General Practice while giving the IT Lead a dedicated environment for managing and improving the IT service.
 
-V10 marked the transition from the earlier IT service hub versions to an Enterprise Edition.
+## Disclaimer
+FICTIONAL PORTFOLIO DEMONSTRATION ONLY
 
-Key features:
+This application is not an NHS service, procurement system or clinical system.
 
-🏢 Enterprise IT Lead environment
-🔐 Demonstration IT Lead login
-🔑 Username and password authentication flow
-🛡️ MFA demonstration screen
-📊 IT Lead dashboard
-🎫 IT service management concepts
-🌐 Infrastructure management
-🛡️ Cyber security
-🚀 Digital transformation
-📚 Knowledge and staff support
-📱 Responsive enterprise interface
-Earlier Development
-V9 — IT Lead Access & MFA Edition
+It is not intended for live NHS use, real procurement decisions, clinical use or storage of real patient or confidential organisational information.
 
-V9 introduced the dedicated IT Lead authentication experience.
+The scenarios, organisations, people, suppliers, costs and other information used within the demonstration are fictional.
 
-Key features:
+The application should not be copied, adopted or used as a live procurement or business-case system without appropriate professional, organisational, legal, financial, procurement, information governance and security review.
 
-🔐 IT Lead login
-👤 Username/password demonstration
-🔑 MFA verification screen
-✅ Successful authentication flow
-❌ Failed login and retry handling
-📊 IT Lead dashboard access
-📱 Responsive interface
-🎨 Updated enterprise branding
-V8 — Primary Care IT Service Hub
-
-V8 established the broader Primary Care IT Service Hub concept.
-
-Key features:
-
-🏠 Service Hub landing page
-👥 Role-based navigation concepts
-💻 IT Lead workspace
-📊 Dashboard statistics
-🖥️ IT service areas
-🚀 Digital transformation sections
-📱 Mobile/tablet optimisation
-🎨 Responsive UI framework
-🔭 V11 — Enterprise Digital Operations Platform
-
-Next major release
-
-V11 represents a significant architectural and functional evolution of the project.
-
-The planned V11 platform will introduce:
-
-🤖 AI Copilot 2.0
-🎫 Enterprise ITSM
-🖥️ Asset & CMDB management
-📚 Advanced Knowledge Centre
-🌐 Infrastructure dashboard
-📊 Executive Intelligence
-🛡️ Governance & Compliance
-📈 Executive reporting
-🚀 Interactive Digital Transformation portfolio
-👥 Enhanced Staff Portal
-⭐ Recruiter Mode
-🔎 Global enterprise search
-🌙 Theme engine
-📱 Enhanced mobile experience
-🏗️ Modular GitHub-first architecture
-
-V11 is intended to evolve the project from an IT service hub demonstrator into a broader Primary Care digital operations platform.
-
-## Repository Policy & Contributions
-This repository exists strictly as a personal portfolio showcase.
-
-No External Contributions: Pull requests, issues, and feature requests from outside contributors are not currently accepted.
-Ownership: All maintenance, updates, and code pushes are managed exclusively by the author (@mikejd90).
-Usage: You are free to view, fork, or study the code under the terms of the MIT License below, but changes to this main repository remain strictly locked to the owner.
-License & Terms of Use
-Demonstration and Portfolio Use Only Copyright (c) 2026. This project is shared strictly for portfolio display, technical demonstration, and evaluation purposes.
-
-No Production Warranty: This software is provided "as is", without warranty of any kind, express or implied. Data Restriction: This repository contains synthetic dummy data only. Unauthorized use with live NHS patient data or real staff PII is strictly prohibited.
-    
+Copyright © 2026 Mikejd90. All rights reserved. This project is for portfolio demonstration purposes only. No reuse, modification, or distribution is permitted."
