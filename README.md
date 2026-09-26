@@ -6,7 +6,7 @@ A browser-based IT service platform designed for NHS General Practice, bringing 
 
 V10.4 provides practice staff with a central place to access IT support, troubleshooting guidance, training and digital resources. It also includes a dedicated IT Lead Hub for managing IT operations, infrastructure, incidents, governance, reporting and digital transformation.
 
-The project demonstrates how a unified platform can support everyday IT operations while providing tools for wider service management and continuous improvement.
+The project demonstrates how a unified platform can support everyday IT operations while providing tools for wider service management and continuous improvement. This project demonstrates practical skills in IT service management, digital transformation, infrastructure oversight, governance and user-focused system design. It explores how a centralised digital platform can support the operational needs of a General Practice while giving the IT Lead a dedicated environment for managing and improving the IT service.
 
 ## Key Features
 
@@ -42,10 +42,6 @@ The project demonstrates how a unified platform can support everyday IT operatio
 ### Previous Versions
 
 Earlier versions developed the platform's IT support, operational management, governance and reporting capabilities. V10.4 builds on this functionality with a clearer interface and more accessible structure.
-
-## Portfolio Value
-
-This project demonstrates practical skills in IT service management, digital transformation, infrastructure oversight, governance and user-focused system design. It explores how a centralised digital platform can support the operational needs of a General Practice while giving the IT Lead a dedicated environment for managing and improving the IT service.
 
 ## Disclaimer
 FICTIONAL PORTFOLIO DEMONSTRATION ONLY
